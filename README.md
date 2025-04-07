@@ -10,11 +10,15 @@ Instruções: Você pode copiar o código e colar em algum ambiente de desenvolv
 # Clone o repositório
 git clone https://github.com/anaacllara/DDI.git
 ```
+É necessário utilizar um navegador para que ver o HTML e o CSS em ação.
+
 Instructions: You can copy the code and paste in some development environment. 
 ```bash
 # Clone the repository
 git clone https://github.com/anaacllara/DDI.git
 ```
+It is necessary to use an browser tto see HTML and CSS in action. 
+
 ## Uso / Use 
 Como usar o projeto.
 ``` Você pode ver minha evolução em relação ao desenvolvimento de interfaces utilizando HTML e CSS.```
